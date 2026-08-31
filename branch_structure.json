@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/884-app-lifecycle-coverage",
+    "wave/issue-895-index-bootstrap-coverage"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/884-app-lifecycle-coverage": "main",
+    "wave/issue-895-index-bootstrap-coverage": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/884-app-lifecycle-coverage",
+    "wave/issue-895-index-bootstrap-coverage"
+  ]
+}
